@@ -25,4 +25,4 @@ The output shows the best schedule found and the run time of the algorithm to th
 The code works by building a tree of nodes that contains precedences and information about job work time + due date etc.
 To find a schedule it keeps track of the currently available, unprocessed nodes and selects one to process. After that the just processed node's children are added to the available pile and this is repeated. A node can't be processed unless all of its parents have been completed.
 
-Code can be 
+Code can be improved in quality but it does the job.
