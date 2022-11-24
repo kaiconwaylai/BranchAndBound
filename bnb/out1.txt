@@ -1,0 +1,160 @@
+Cost: 0
+Max queue size: 0
+Current Iterations: 0
+Proposed Schedule: 
+Iteration: 1
+Cost: 0
+Max queue size: 1
+Current Iterations: 0
+Proposed Schedule: 31
+Iteration: 2
+Cost: 70
+Max queue size: 1
+Current Iterations: 0
+Proposed Schedule: 1,31
+Iteration: 3
+Cost: 226
+Max queue size: 1
+Current Iterations: 0
+Proposed Schedule: 2,1,31
+Iteration: 4
+Cost: 354
+Max queue size: 1
+Current Iterations: 0
+Proposed Schedule: 5,2,1,31
+Iteration: 5
+Cost: 354
+Max queue size: 1
+Current Iterations: 0
+Proposed Schedule: 12,5,2,1,31
+Iteration: 6
+Cost: 354
+Max queue size: 3
+Current Iterations: 0
+Proposed Schedule: 13,12,5,2,1,31
+Iteration: 7
+Cost: 354
+Max queue size: 5
+Current Iterations: 0
+Proposed Schedule: 11,13,12,5,2,1,31
+Iteration: 8
+Cost: 354
+Max queue size: 7
+Current Iterations: 0
+Proposed Schedule: 15,11,13,12,5,2,1,31
+Iteration: 9
+Cost: 410
+Max queue size: 9
+Current Iterations: 0
+Proposed Schedule: 24,15,11,13,12,5,2,1,31
+Iteration: 10
+Cost: 410
+Max queue size: 11
+Current Iterations: 0
+Proposed Schedule: 25,24,15,11,13,12,5,2,1,31
+Iteration: 11
+Cost: 410
+Max queue size: 13
+Current Iterations: 0
+Proposed Schedule: 26,25,24,15,11,13,12,5,2,1,31
+Iteration: 12
+Cost: 410
+Max queue size: 15
+Current Iterations: 0
+Proposed Schedule: 27,26,25,24,15,11,13,12,5,2,1,31
+Iteration: 13
+Cost: 413
+Max queue size: 18
+Current Iterations: 0
+Proposed Schedule: 28,27,26,25,24,15,11,13,12,5,2,1,31
+Iteration: 14
+Cost: 413
+Max queue size: 20
+Current Iterations: 0
+Proposed Schedule: 29,28,27,26,25,24,15,11,13,12,5,2,1,31
+Iteration: 15
+Cost: 470
+Max queue size: 22
+Current Iterations: 0
+Proposed Schedule: 14,29,28,27,26,25,24,15,11,13,12,5,2,1,31
+Iteration: 16
+Cost: 509
+Max queue size: 22
+Current Iterations: 0
+Proposed Schedule: 16,29,28,27,26,25,24,15,11,13,12,5,2,1,31
+Iteration: 17
+Cost: 509
+Max queue size: 23
+Current Iterations: 0
+Proposed Schedule: 17,16,29,28,27,26,25,24,15,11,13,12,5,2,1,31
+Iteration: 18
+Cost: 536
+Max queue size: 25
+Current Iterations: 0
+Proposed Schedule: 18,17,16,29,28,27,26,25,24,15,11,13,12,5,2,1,31
+Iteration: 19
+Cost: 539
+Max queue size: 27
+Current Iterations: 0
+Proposed Schedule: 19,18,17,16,29,28,27,26,25,24,15,11,13,12,5,2,1,31
+Iteration: 20
+Cost: 539
+Max queue size: 30
+Current Iterations: 0
+Proposed Schedule: 20,19,18,17,16,29,28,27,26,25,24,15,11,13,12,5,2,1,31
+Iteration: 21
+Cost: 551
+Max queue size: 33
+Current Iterations: 0
+Proposed Schedule: 14,20,19,18,17,16,29,28,27,26,25,24,15,11,13,12,5,2,1,31
+Iteration: 22
+Cost: 561
+Max queue size: 35
+Current Iterations: 0
+Proposed Schedule: 21,14,20,19,18,17,16,29,28,27,26,25,24,15,11,13,12,5,2,1,31
+Iteration: 23
+Cost: 561
+Max queue size: 36
+Current Iterations: 0
+Proposed Schedule: 22,21,14,20,19,18,17,16,29,28,27,26,25,24,15,11,13,12,5,2,1,31
+Iteration: 24
+Cost: 561
+Max queue size: 37
+Current Iterations: 0
+Proposed Schedule: 23,22,21,14,20,19,18,17,16,29,28,27,26,25,24,15,11,13,12,5,2,1,31
+Iteration: 25
+Cost: 561
+Max queue size: 38
+Current Iterations: 0
+Proposed Schedule: 6,23,22,21,14,20,19,18,17,16,29,28,27,26,25,24,15,11,13,12,5,2,1,31
+Iteration: 26
+Cost: 561
+Max queue size: 38
+Current Iterations: 0
+Proposed Schedule: 7,6,23,22,21,14,20,19,18,17,16,29,28,27,26,25,24,15,11,13,12,5,2,1,31
+Iteration: 27
+Cost: 561
+Max queue size: 38
+Current Iterations: 0
+Proposed Schedule: 8,7,6,23,22,21,14,20,19,18,17,16,29,28,27,26,25,24,15,11,13,12,5,2,1,31
+Iteration: 28
+Cost: 561
+Max queue size: 38
+Current Iterations: 0
+Proposed Schedule: 9,8,7,6,23,22,21,14,20,19,18,17,16,29,28,27,26,25,24,15,11,13,12,5,2,1,31
+Iteration: 29
+Cost: 561
+Max queue size: 39
+Current Iterations: 0
+Proposed Schedule: 10,9,8,7,6,23,22,21,14,20,19,18,17,16,29,28,27,26,25,24,15,11,13,12,5,2,1,31
+Iteration: 30
+Cost: 561
+Max queue size: 40
+Current Iterations: 0
+Proposed Schedule: 3,10,9,8,7,6,23,22,21,14,20,19,18,17,16,29,28,27,26,25,24,15,11,13,12,5,2,1,31
+Iteration: 31
+Cost: 561
+Max queue size: 40
+Current Iterations: 0
+Proposed Schedule: 4,3,10,9,8,7,6,23,22,21,14,20,19,18,17,16,29,28,27,26,25,24,15,11,13,12,5,2,1,31
+Iteration: 32
